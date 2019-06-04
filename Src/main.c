@@ -93,7 +93,7 @@ void TransmitProto(int32_t command_id)
 		HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_SET);
 	}
 }
-//Receive protobuf messages. 
+//Receive protobuf messages from serial.
 void ReceiveProto()
 {
 	CommandMessage imessage = CommandMessage_init_zero;
