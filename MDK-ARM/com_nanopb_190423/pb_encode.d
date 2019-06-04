@@ -1,0 +1,9 @@
+com_nanopb_190423\pb_encode.o: ..\Src\pb_encode.c
+com_nanopb_190423\pb_encode.o: ../Inc/pb.h
+com_nanopb_190423\pb_encode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+com_nanopb_190423\pb_encode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+com_nanopb_190423\pb_encode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+com_nanopb_190423\pb_encode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+com_nanopb_190423\pb_encode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+com_nanopb_190423\pb_encode.o: ../Inc/pb_encode.h
+com_nanopb_190423\pb_encode.o: ../Inc/pb_common.h
